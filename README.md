@@ -1,7 +1,5 @@
 # 42-fract-ol
 
-Sure! Here's the translation:
-
 Fract-ol is one of the first graphical projects at 42 school and introduces us to 2D programming with fractal generation. Fract-ol generates beautiful fractals from complex numbers of an iterative mathematical construct. A fractal is a fragmented geometrical figure that infinitely repeats itself at smaller scales. This project uses the school's graphical library, MiniLibX.
 
 To install and compile Fract-ol, clone the repository and include the MiniLibX repository: `git clone https://github.com/myagjz/fract-ol.git && cd fract-ol && git submodule init && git submodule update`. Then you will be in the correct directory and can compile with `make`.
